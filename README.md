@@ -1,2 +1,2 @@
-# SKT-한양-AI 프로
+# SKT-한양-AI project
 AI 경진대회
