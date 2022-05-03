@@ -23,9 +23,9 @@ AI 경진대회
 
   + Flask를 이용한 서버 구축
 ## 시연 영상
-[![demo-video](<img width="944" alt="스크린샷 2022-05-04 오전 1 25 01" src="https://user-images.githubusercontent.com/83147205/166495770-5a31d76f-d5e0-449b-bc4c-2382e0c597d7.png">)](http://youtu.be/JkwsliFswpM)
+[![demo-video](<img width="944" alt="demo" src="https://user-images.githubusercontent.com/83147205/166496686-74336fb0-c4b4-4e6f-b0a9-81abc3ff8afd.png">)](http://youtu.be/JkwsliFswpM)
 ## Architecture
 ![Untitled](https://user-images.githubusercontent.com/83147205/166494222-93752224-acad-4e05-bbaf-8efc2ab3d542.png)
 
 
-<img width="944" alt="demo" src="https://user-images.githubusercontent.com/83147205/166496686-74336fb0-c4b4-4e6f-b0a9-81abc3ff8afd.png">
+
