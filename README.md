@@ -20,8 +20,10 @@ AI 경진대회
 ## 기여한 부분
   + 필요한 모든 데이터 크롤링 및 정제 with pandas & numpy
   + 데이터 모델링 with K-means
+
   + Flask를 이용한 서버 구축
 ## 시연 영상
- http://youtu.be/JkwsliFswpM
+[![demo-video](<img width="944" alt="스크린샷 2022-05-04 오전 1 25 01" src="https://user-images.githubusercontent.com/83147205/166495770-5a31d76f-d5e0-449b-bc4c-2382e0c597d7.png">)](http://youtu.be/JkwsliFswpM)
 ## Architecture
 ![Untitled](https://user-images.githubusercontent.com/83147205/166494222-93752224-acad-4e05-bbaf-8efc2ab3d542.png)
+
