@@ -26,6 +26,7 @@ AI 경진대회
   + 지하철 실시간 도착정보 데이터(열린데이터광장)
   + 지하철 환승 데이터(열린데이터광장)
   + 지하철 시간대별 도착/시간 데이터(서울교통공사)
+  + 전철역 주변 맛집 데이터
 
 ## 시연 영상
 [![demo-video](<img width="944" alt="demo" src="https://user-images.githubusercontent.com/83147205/166496686-74336fb0-c4b4-4e6f-b0a9-81abc3ff8afd.png">)](https://youtu.be/CqILS5J6jOI)
