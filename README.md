@@ -17,6 +17,13 @@ AI 경진대회
 ## Members
   + 강응찬, 김진호, 방정하, 임가현, 김건우
 
+## Skill & Tech
+  + python
+  + Flask
+  + pandas
+  + numpy
+  + K-means
+
 ## 기여한 부분
   + 필요한 모든 데이터 크롤링 및 정제 with pandas & numpy
   + 데이터 모델링 with K-means
